@@ -1,0 +1,36 @@
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\StockMangementversion1.exe.config
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\StockMangementversion1.exe
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\StockMangementversion1.pdb
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.dll
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.xml
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.csprojResolveAssemblyReference.cache
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Login.resources
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Properties.Resources.resources
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Start.resources
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.csproj.GenerateResource.Cache
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.exe
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.pdb
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Stock.resources
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Permission.resources
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Product.resources
+C:\Users\Carnival Stores\Documents\Visual Studio 2017\Projects\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Person.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\StockMangementversion1.exe.config
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\StockMangementversion1.exe
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\StockMangementversion1.pdb
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.dll
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.xml
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.csprojResolveAssemblyReference.cache
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Person.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Login.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Permission.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Product.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Properties.Resources.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Start.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.Stock.resources
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.csproj.GenerateResource.Cache
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.exe
+C:\Users\Carnival Stores\Desktop\StockMangementversion1\StockMangementversion1\obj\Debug\StockMangementversion1.pdb
